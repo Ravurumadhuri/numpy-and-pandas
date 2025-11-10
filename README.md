@@ -1,2 +1,2 @@
-# oops
-practicing of oops concepts
+# numpy and pandasa
+practicing of numpy and pandas cocepts
