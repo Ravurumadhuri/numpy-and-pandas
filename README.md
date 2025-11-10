@@ -1,2 +1,2 @@
-# numpy and pandasa
+# numpy and pandas
 practicing of numpy and pandas cocepts
